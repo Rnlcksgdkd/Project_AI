@@ -7,7 +7,7 @@ from generator import Generator
 from discriminator import Discriminator
 from rollout import ROLLOUT
 from target_lstm import TARGET_LSTM
-import cPickle
+
 
 #########################################################################################
 #  Generator  Hyper-parameters
